@@ -1,2 +1,2 @@
-# sample-data
-Data files storage
+# Sample Data Storage
+From DQ to personal use.
