@@ -13,3 +13,6 @@ ipython_config.py
 
 #DS STORE
 **/.DS_Store
+
+# R
+.Rhistory
