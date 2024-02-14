@@ -11,5 +11,7 @@ List of projects included:
   - Exploring Hacker News Posts
   - Profitable App Profiles for the App Store and Google Play Markets
 
+- Data Analysis and Visualisation
+  - Exploring eBay Car Sales Data
 
 From DQ to personal use.
