@@ -13,5 +13,6 @@ List of projects included:
 
 - Data Analysis and Visualisation
   - Exploring eBay Car Sales Data
+  - Finding Heavy Traffic Indicators on I-94
 
 From DQ to personal use.
