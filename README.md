@@ -14,5 +14,7 @@ List of projects included:
 - Data Analysis and Visualisation
   - Exploring eBay Car Sales Data
   - Finding Heavy Traffic Indicators on I-94
+  - Storytelling Data Visualization on Exchange Rates 
+
 
 From DQ to personal use.
