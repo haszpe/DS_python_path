@@ -4,6 +4,7 @@ Here are some of my projects I did during completing Data Scientist in Python pa
 
 Also a data files storage for outside projects.
 
+
 List of projects included:
 
 - Python Introduction Course:
@@ -11,10 +12,12 @@ List of projects included:
   - Exploring Hacker News Posts
   - Profitable App Profiles for the App Store and Google Play Markets
 
-- Data Analysis and Visualisation
+- Data Analysis and Visualisation:
   - Exploring eBay Car Sales Data
   - Finding Heavy Traffic Indicators on I-94
   - Storytelling Data Visualization on Exchange Rates 
 
+- Probability and Statistics:
+  - Investigating Fandango Movie Ratings
 
 From DQ to personal use.
