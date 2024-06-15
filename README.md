@@ -20,4 +20,7 @@ List of projects included:
 - Probability and Statistics:
   - Investigating Fandango Movie Ratings
 
+- Introduction to Algorithms
+  - Building Fast Queries on a CSV
+
 From DQ to personal use.
